@@ -47,4 +47,26 @@ fn main() {
 
     let _h = 'h';
     let _i = 'i';
+
+
+    // COMPOUND TYPES
+
+    println!("\n\nNow, let's look at compound types.");
+    println!("\nThey are: tuples; arrays; vectors");
+
+    // Tuples
+    println!("\nA tuple is a fixed-size array of related data - possibly of different types.");
+
+    let _tup = ("I am learning Rust, which for me is programming language", 5);
+
+    // Arrays
+    println!("\nArrays are fixed-size and can only contain variables of a single type.");
+
+    let _error_codes = [404, 429, 500];
+    let _http_not_found = _error_codes[0]; // this sets the variable to '404';
+
+    // Vectors
+    println!("\nVectors are resizable arrays.");
+
+    let mut _my_vector = vec![1i32, 2, 3];
 }
