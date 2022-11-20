@@ -1,0 +1,3 @@
+This repo is a collection of code snippets written as I read through [this playlist](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) by LetsGetRusty on YouTube, in which he works his way through The Book™, also known as The Rust Book.
+
+Rust is a language I've had my eye on for some time now - and while it won't become a focus of mine in the short-term when C#, Python, and Java will be far more immediately useful to my career, I am excited to at least learn the basics.
